@@ -1,17 +1,17 @@
 # Setup
 title:            'State of Connecticut'
-tagline:          'Data Sharing Playbook'
-description:      'Connecticut Data Playbook'
+tagline:          'Race, Ethnicity, and Lanugage (REL) Data Standards'
+description:      'Standards for REL data'
 
 author:
   name:           'State of Connecticut'
-  url:            https://github.com/CTOpenData/data-sharing-playbook
+  url:            https://ctopendata.github.io/REL-standards/
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/CTOpenData/data-sharing-playbook
+  repo:           https://github.com/CTOpenData/REL-standards
 
 # Google Analytics
 google_analytics: UA-56144207-2
